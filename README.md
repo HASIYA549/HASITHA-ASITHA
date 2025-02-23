@@ -1,4 +1,4 @@
-# HASITHA
+# https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;HASITHA+ASITHA_v3+;Thanks+for+visiting
 HASITHA  MD
 
 me  you tube 👇 සප්පරක්  දාන්න 
