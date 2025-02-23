@@ -19,19 +19,18 @@ Node.js. file. 👇
 
 
 
+    name: Node.js CI
 
-name: Node.js CI
-
-on:
-  push:
+    on:
+    push:
     branches:
       - main
-  pull_request:
+    pull_request:
     branches:
       - main
 
-jobs:
-  build:
+    jobs:
+    build:
 
     runs-on: ubuntu-latest
 
