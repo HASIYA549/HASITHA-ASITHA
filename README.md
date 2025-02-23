@@ -1,6 +1,7 @@
-# https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;HASITHA+ASITHA_v3+;Thanks+for+visiting
-HASITHA  MD
-
+#---
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;QUEEN+ANJU+XPRO;Thanks+for+visiting!"/>
+</a>
 me  you tube 👇 සප්පරක්  දාන්න 
 
 https://youtube.com/@user-md-hasitha?si=HmRs8KoTnEV3Px9x
